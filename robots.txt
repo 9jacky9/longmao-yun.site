@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://longmao-yun.site/sitemap.xml
